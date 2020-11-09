@@ -1,5 +1,5 @@
 # react-hacks
-Tools I use most with projects made in react
+Tools I use most with projects made in react<br>
 (Portuguese) | (English)
 
 ### Hook useSWR
