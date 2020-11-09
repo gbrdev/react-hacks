@@ -2,7 +2,8 @@
 Tools I use most with projects made in react<br>
 Easy import 
 ```console
-$ git clone https://github.com/gbrdev/react-hacks.git``` <br>
+$ git clone https://github.com/gbrdev/react-hacks.git
+```
 (Portuguese) | (English)
 
 ### Hook useSWR
