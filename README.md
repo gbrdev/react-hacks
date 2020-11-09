@@ -1,4 +1,4 @@
-[(Portuguese)](README-PTBR.md) / [(English)](README.md)
+[(English)](README.md) / [(Portuguese)](README-PTBR.md)
 # React-hacks
 Tools I use most with projects made in react<br>
 Easy import 
